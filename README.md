@@ -1,5 +1,7 @@
 # vue-cart
 
+This is a Vue single-page learning example, through which you can learn about Vue's components and routing features by building a classic shopping cart page.
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
